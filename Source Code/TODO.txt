@@ -1,0 +1,2 @@
+Add the dep folder or it will not launch
+the dep folder contains all the folders :O
